@@ -19,6 +19,7 @@ http://www.takayukitodo.com/
 I used this repository:  
 https://github.com/antoinelame/GazeTracking
 
+you have to download gaze tracking repository and locate it  in same directory.
 
 
 # Hardware
