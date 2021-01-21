@@ -12,14 +12,14 @@ Made By TeambreakDown();
 Inspired By
 http://www.takayukitodo.com/
 
-# -----------------------
+
 
 # GazeTracking
 
 I used this repository:
 https://github.com/antoinelame/GazeTracking
 
-# ------------------------
+
 
 # Hardware
 
