@@ -1,5 +1,5 @@
 # SEER
-Simulative Emotional Expression Robot - Arduino
+Simulative Emotional Expression Robot - Arduino  
 Made By TeambreakDown();
 
 ![Er1bHW-U0AEp9cg](https://user-images.githubusercontent.com/56443524/105359550-ebde3900-5c3a-11eb-93aa-4a9d25d54167.jpg)
@@ -9,14 +9,14 @@ Made By TeambreakDown();
 
 # Simulative Emotional Expression Robot
 
-Inspired By
+Inspired By  
 http://www.takayukitodo.com/
 
 
 
 # GazeTracking
 
-I used this repository:
+I used this repository:  
 https://github.com/antoinelame/GazeTracking
 
 
