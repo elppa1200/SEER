@@ -39,6 +39,16 @@ while(1):
     
 # ------------------------------
     
+'''
+        if <face keypoints detection> <= <X or Y position gap for detection movement>:
+            <moving motor> = <angle>
+'''
+    
+    
+    
+    
+    
+    
 #right eye
     if len(pts) != 68:
         pass
