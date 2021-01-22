@@ -34,7 +34,7 @@ Used Arduino Uno * 1 , SG90 ServorMotor * 8
 ![ㅁㄴㅇㄹ](https://user-images.githubusercontent.com/56443524/105360206-b4bc5780-5c3b-11eb-9164-272f00de10a9.png)
 
 
-# Necessary library
+# library
 
 Dlib(conda-forge)  
 OpenCV  
