@@ -4,7 +4,9 @@ Made By TeambreakDown();
 
 ![Er1bHW-U0AEp9cg](https://user-images.githubusercontent.com/56443524/105359550-ebde3900-5c3a-11eb-93aa-4a9d25d54167.jpg)
 
+# shape_predictor_68_face_landmarks.dat Download
 
+https://drive.google.com/file/d/1h_AbMYT9-DFxKbsvzh7UV-sB_eUM3lWp/view?usp=sharing
 
 
 # Simulative Emotional Expression Robot
